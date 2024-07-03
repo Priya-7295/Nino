@@ -1,0 +1,18 @@
+{
+    "name": "Hùng ᰔ",
+    "ID": "100082166588573",
+    "shield": 3,
+    "coins": 1980000,
+    "Island": {
+        "level": 99999999,
+        "coinsLV": 20000,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 20000,
+    "timeRegister": "19:21:01 20/6/2024"
+}

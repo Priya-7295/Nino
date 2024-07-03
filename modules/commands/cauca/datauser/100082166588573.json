@@ -1,0 +1,20 @@
+{
+    "name": "Hùng ᰔ",
+    "ID": "100082166588573",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "10:56:41 21/6/2024"
+}
